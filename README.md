@@ -1,3 +1,12 @@
+# Decentrailized-Twitter
+
+# راه اندازی پروژه
+
+پس از آنکه پروژه را از مخرن گیتهاب کلون کردید میتوانید
+ار دستور زیر برای نصب پکیج های مورد نیاز استفاده کنید:
+
+### `npm install`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,4 +77,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Decentrailized-Twitter
+
