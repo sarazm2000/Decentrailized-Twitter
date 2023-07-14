@@ -28,11 +28,11 @@ const Timeline = () => {
             "post": "Hello guys! I'm looking for a job. Can you repeyk this post???",
 
             "detail": {
-                "date": "3 Jul",
-                "time": "6:01 PM",
-                "likes": "0",
-                "repeyk": "0",
-                "comments": "0"
+                "date": "1 jul",
+                "time": "3:46 pm",
+                "likes": "537695",
+                "repeyk": "226",
+                "comments": "295"
 
             }
 
