@@ -76,7 +76,9 @@
 <img width="1440" alt="Screenshot 2023-07-14 at 9 23 09 PM" src="https://github.com/sarazm2000/Decentrailized-Twitter/assets/63396470/49d824e3-b7c0-42c8-b04a-a983eb1ed189">
 
 
+<img width="1440" alt="Screenshot 2023-07-14 at 11 29 02 PM" src="https://github.com/sarazm2000/Decentrailized-Twitter/assets/63396470/1bfa92a3-10ce-4236-a770-88122e5aa32e">
 
+<img width="682" alt="Screenshot 2023-07-14 at 11 31 48 PM" src="https://github.com/sarazm2000/Decentrailized-Twitter/assets/63396470/91500de0-d8c6-46f6-a6ed-e67c2828c0d2">
 
 
 # سوالات
