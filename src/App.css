@@ -154,3 +154,7 @@ input:focus {
   text-transform: capitalize;
   margin-left: .2rem;
 }
+
+.me {
+  color: #010C12;
+}
