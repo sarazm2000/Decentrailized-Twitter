@@ -1,23 +1,28 @@
 import React from "react";
 
 
-const Post = (username, name, post) => {
+const Post = (props) => {
     return (
-        <div className="post-container">
-            <p className="name">{name}</p>
-            <p className="username">{username}</p>
+        <div className="post">
+            <p className="name">{props.name}</p>
+            <p className="username">@{props.username}</p>
             <div className="content">
-                <p className="text">{post.text}</p>
-                {post.image ? <div className="image">{post.image}</div> : <></>}
+                <p className="text">{props.post}</p>
+                {props.image ? <img className="image">{props.image}</img> : <></>}
             </div>
             <div className="post-footer">
-                <div className="like">510034 likes</div>
-                <div className="repeyk">51 rePeyk</div>
-                <div className="comment">5100 comments</div>
+                <div className="likes">
+                    <span>
+                        {props.detail.likes}
+                    </span> likes</div>
+                <div className="repeyk">
+                    <span>{props.detail.repeyk}</span> rePeyk</div>
+                <div className="comments"><span>{props.detail.comments}</span> comments</div>
             </div>
             <div className="post-date">
-                <div className="time">3:45 PM</div>
-                <div className="date">May 4th</div>
+                <div className="time">{props.detail.time}</div>
+                <b>|</b>
+                <div className="date">{props.detail.date}</div>
             </div>
         </div>
     )
